@@ -1,0 +1,6 @@
+{
+  "name": "agent-pira-convertidor-de-monedas-con-tas-morlsrfc",
+  "version": "1.0.0",
+  "description": "Proyecto de Pira [Gen8]: convertidor de monedas con tasas en tiempo real",
+  "main": "index.js"
+}
